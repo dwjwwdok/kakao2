@@ -1,0 +1,13 @@
+header, section, footer {
+    width: 100%;
+    position: relative;
+}
+
+.se2_con>h1, .gnb_con>h1, .se3_con>h2 {
+    color: #141515;
+}
+
+/* #in_header,{
+    display: flex;
+} */
+
